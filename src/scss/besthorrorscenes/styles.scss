@@ -134,7 +134,6 @@ body {
 	overflow-y: scroll;
 	.videos__list {
 		width: 100%;
-
 		.videos__video {
 			background: linear-gradient(
 					to bottom,
@@ -145,7 +144,7 @@ body {
 					transparent
 				)
 				$red;
-			padding: 50px;
+			padding: 80px;
 			.videos__video-row {
 				&:first-child {
 					display: flex;
@@ -157,7 +156,6 @@ body {
 					justify-content: flex-end;
 					align-items: center;
 					font-size: 12px;
-					margin-bottom: 100px;
 				}
 				.videos__video-title {
 					font-family: "Syncopate", sans-serif;
@@ -173,6 +171,7 @@ body {
 					font-size: 300px;
 					border: solid 2px $gray;
 					margin: 20px 0;
+					padding: 70px 0;
 				}
 				.vidoes__video-vote {
 					display: flex;

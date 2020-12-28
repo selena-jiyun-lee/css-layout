@@ -4,8 +4,8 @@ CSS Cloning site
 
 ## This site is a list of cloning websites' layout for practice.
 
--   [ ] https://besthorrorscenes.com
--   [ ] https://pain-box.com/
+-   [x] https://besthorrorscenes.com
+-   [x] https://paint-box.com/
 -   [ ] http://10x19/
 -   [ ] http://www.z-o-o.fr/
 -   [ ] https://schwartzemdia.com.au/
