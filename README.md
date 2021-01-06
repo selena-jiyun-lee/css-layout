@@ -1,6 +1,7 @@
-# css-layout
+# CSS Cloning sites
 
-CSS Cloning site
+- This is CSS Cloning site for improving css skills.
+- [CSS Cloning List](https://selena-jiyun-lee.github.io/css-layout/)
 
 ## This site is a list of cloning websites' layout for practice.
 
